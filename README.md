@@ -2,7 +2,7 @@
 
 用途：积累Tensorflow学习代码。
 
-## 搭建经典卷积神经网络
+## 1. 搭建经典卷积神经网络
 * LeNet
 * AlexNet
 * VGG
