@@ -1,8 +1,8 @@
 # tensorflow-learning-code
 
-用途：积累Tensorflow学习代码。
+积累Tensorflow学习代码。
 
-## 1. 搭建经典卷积神经网络
+## 1. 经典卷积神经网络
 * LeNet
 * AlexNet
 * VGG
